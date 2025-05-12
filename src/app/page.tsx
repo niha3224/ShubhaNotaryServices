@@ -23,7 +23,7 @@ export default function Home() {
       <section style={{ backgroundColor: 'white', padding: '3rem 1rem', textAlign: 'center' }}>
         <h2 style={{ fontSize: '2rem', marginBottom: '1rem' }}>Why Choose Us?</h2>
         <p style={{ maxWidth: '700px', margin: '0 auto', fontSize: '1.1rem', lineHeight: '1.6' }}>
-          At Shubha Notary Services, we prioritize professionalism, security, and convenience. Whether you're at home or at the office, our mobile and virtual notary options are designed to meet your needs wherever you are.
+          At Shubha Notary Services, we prioritize professionalism, security, and convenience. Whether you&apos;re at home or at the office, our mobile and virtual notary options are designed to meet your needs wherever you are.
         </p>
       </section>
 
